@@ -36,9 +36,7 @@ Observar la animación y el diseño limpio 👀✨.
 Modificar estilos o agregar scripts en los archivos correspondientes para personalizar 🎛️.
 
 Estructura de Archivos 📁
-bash
-Copiar
-Editar
+
 /mi-proyecto-vs
 │
 ├── index.html       # Archivo HTML principal
@@ -46,7 +44,7 @@ Editar
 │   └── style.css    # Estilos y animaciones CSS
 └── js
     └── script.js    # Archivo JS para futuros scripts
-Autor ✍️
+Autore ✍️
 Alejandra Bárcena — GitHub
 
 
